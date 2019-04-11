@@ -1,7 +1,597 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cbf4a8f-7d3f-42f4-8cd2-5150912a238d" name="Default Changelist" comment="" />
+    <list default="true" id="3cbf4a8f-7d3f-42f4-8cd2-5150912a238d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/busboard_blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Busboard_blog.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_5ea2ed84-c9cb-4fe4-8ad5-21eb9dee9394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_63a8d8f9-8fcc-490b-89be-42397dd28357.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_8dcd2c5e-01bf-42f3-ae9f-d241182d3677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3754.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3873.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3874.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3875.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3927.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3965.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3966 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3966.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3967 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3967.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3968.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3987.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3988.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3989.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_3990.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4026.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4027.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4045.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4046.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4047.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4049.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4103.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4104.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_4105.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7529.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7530.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7531 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7531.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7538.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7541.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7543.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_IMG_7579.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_dup1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_dup2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_dup3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_dup4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_dup5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image277.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image278.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11G/small_image43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_0874ff36-3232-42c7-98ed-d3d42551c2dd (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_0874ff36-3232-42c7-98ed-d3d42551c2dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_1383ca5e-21f8-4f93-b663-bab03a901961.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_4277dbe5-7f74-4138-aa1f-6de18ab0598b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_3949.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_3950.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_3952.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_3953.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_4021.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_4022.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_4028.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_4030.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_4062.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_4064.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_7592.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_7593.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_IMG_7596.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_PHOTO-2018-12-04-15-15-25(1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_PHOTO-2018-12-04-15-15-25(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_PHOTO-2018-12-04-15-32-03 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_PHOTO-2018-12-04-15-32-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_a145e40f-5497-4438-a4ec-d2f53c5ea0f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image156 copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image230.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_image89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_small_PHOTO-2018-12-04-15-15-25(1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_small_PHOTO-2018-12-04-15-15-25(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_small_PHOTO-2018-12-04-15-32-03 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/11H/small_small_PHOTO-2018-12-04-15-32-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_04907a9f-b619-4f35-af4f-a522e65b7206 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_04907a9f-b619-4f35-af4f-a522e65b7206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_0517ce1a-54ed-43bb-83fa-f10fce7bb662 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_0517ce1a-54ed-43bb-83fa-f10fce7bb662.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_054ff172-26e7-44ff-bc3d-74e45fbf6562 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_11f33a23-dc5a-4ed8-a4a3-540f52721077 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_11f33a23-dc5a-4ed8-a4a3-540f52721077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181203_145459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181205_161624(0).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181205_161626 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181205_161626(0).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181205_161626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181205_161631.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181205_161632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181210_120934(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181210_120934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181210_122639(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_20181210_122639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_28ec41d7-eaea-48f7-8b45-6bc0e09cb24c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_5498ab60-5038-46f2-8ac4-61ac508725e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_6e9fdc97-823c-40b0-ba81-751661354b8e copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_7a412b8a-12d9-46d6-a32b-71753b661c86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_7e5ecb04-e8c1-4244-aa70-3298ed302fa3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_8869a28a-c899-4cf3-9667-fb173461b13d copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_8869a28a-c899-4cf3-9667-fb173461b13d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3747.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3748.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3749.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3760.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3773.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3774.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3865.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3866.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3867.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3868.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3870.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3871.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3872.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3880.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3881.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3884.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3887.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3888.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3889.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3938.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3939.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3940.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3941.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3942.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3943.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3961 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3961.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3962 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3962.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3963 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3963.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3983.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_3984.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4005 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4005.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4006 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4006.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4007 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4007.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4008.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4053.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4054.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4055.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4057.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4058.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4060.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4106 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_4106.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7515.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7550.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7552 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7552.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7553 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7553.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7554 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7554.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7560 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7564 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7586.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7587.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7588.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_IMG_7590.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_PHOTO-2018-12-04-14-52-05 copy 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_PHOTO-2018-12-04-14-52-05 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_PHOTO-2018-12-04-15-15-26 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_PHOTO-2018-12-04-15-15-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_PHOTO-2018-12-04-15-32-05 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image191.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image281.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_image99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_small_PHOTO-2018-12-04-14-52-05 copy 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_small_PHOTO-2018-12-04-15-15-26 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_small_PHOTO-2018-12-04-15-15-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/12G/small_small_PHOTO-2018-12-04-15-32-05 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_04c3e78a-1a9c-415b-bbe8-7b81e73d4a2b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_235858f4-3178-461e-bde5-5bb8d06ef3e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_2b7def09-7c1a-42da-8712-34fc466396b9 (1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_2b7def09-7c1a-42da-8712-34fc466396b9 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_2b7def09-7c1a-42da-8712-34fc466396b9 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_2b7def09-7c1a-42da-8712-34fc466396b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_2d1145f8-5b47-4aea-ad1b-d7794a609c90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_7543dfc8-3313-46b8-87d4-2ea207a108e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_75816e04-4b0b-42fa-94cb-38d19c801697.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_8a2365fa-04b5-4e80-9e62-37686eb49658 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_8a2365fa-04b5-4e80-9e62-37686eb49658.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3738.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3740.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3741.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3742.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3743.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3745.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3765.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3766.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3767.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3771.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3772.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3783 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3783.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3784.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3922.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3923.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3924.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3925.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3930.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3931.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3932.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3933.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3936.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3937.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3944.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3945.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3969.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3979 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3980.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3981.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3985 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3985.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3986 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_3986.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4010.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4012 copy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4012.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4013.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4018.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4020.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4070.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4071.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4077.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4082.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4107.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_4108.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7516.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7517.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7518.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7520.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7532 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7532.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7533 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7533.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7535.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7536 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7536.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7537 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7548.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7556.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7557.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7558 copy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7558.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7559.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7565 copy 2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7566 copy 2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7566.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7568.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7570.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7601.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7602.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7611.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7612.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_IMG_7613.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(2) copy 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(2) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(3) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(4) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25(4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-50-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-51-05(1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-51-05(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-51-05(2) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-51-05(2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-52-05(1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-52-05(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-04-14-52-05(8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-05-16-28-06(4) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-05-16-28-06(4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_PHOTO-2018-12-05-16-28-06(5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_a2a8a32e-8979-4c59-aaeb-ca80029baa68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_a77135b8-513f-477d-98df-b4b9219f876a copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_a77135b8-513f-477d-98df-b4b9219f876a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_aaf1676c-1bd2-4aba-8b0a-698dbfe3acdc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_bf7424c6-f038-49ad-b7a0-7f5fb144a3c2 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_e347a6ee-aae6-43e6-9ecf-9f098715723c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_f6cf1244-f82e-4664-ae02-9421ce676b17 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_f6cf1244-f82e-4664-ae02-9421ce676b17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image227.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image264.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_image93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_img1008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_img1012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(2) copy 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(2) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(4) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25(5) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-50-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-51-05(1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-51-05(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-51-05(2) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-51-05(2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-52-05(1) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-52-05(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-52-05(8) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-04-14-52-05(8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-05-16-28-06(4) copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-05-16-28-06(4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_PHOTO-2018-12-05-16-28-06(5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_img1008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_img1009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/17D/small_small_img1012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_1ab85206-893e-4436-bcdd-dc935a1eee8a 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_1ab85206-893e-4436-bcdd-dc935a1eee8a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181203_143212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181205_160558(0).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181205_160558.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181205_160559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181205_161325.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181205_161425.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122231(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122232(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122256(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122257(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_122257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_123249(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_123249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_124043(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_124043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_124206(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_20181210_124206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_5677bade-aa60-488a-a092-931aab5f60a2 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_5677bade-aa60-488a-a092-931aab5f60a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3756.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3914.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3915.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3917.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3918.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3919.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3920.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3928.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3946.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3947.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3956.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3973.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3974.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3991.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3992.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3993.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3994.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3995.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3996.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3997.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3998.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_3999.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4001.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4002.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4050.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4051.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4052.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4066.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4067.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4068.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4069.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4072.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4075.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4076.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4080.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4112.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4113.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4114.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4115.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_4116.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7521.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7523.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7547.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7580.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7581.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7594.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7595.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7598.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7599.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7605.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7608.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7609.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_IMG_7610.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_PHOTO-2018-12-04-15-15-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_PHOTO-2018-12-04-15-32-04 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_PHOTO-2018-12-04-15-32-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_a0bb0a9b-e812-47a7-bb1f-f795c3378bcf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_a3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_iamge209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image259.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image260.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image262.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image269.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image287.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image288.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image289.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image290.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image292.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_image44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_small_PHOTO-2018-12-04-15-15-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_small_PHOTO-2018-12-04-15-32-04 copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5E/small_small_PHOTO-2018-12-04-15-32-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/export.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +605,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="135">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -26,7 +616,7 @@
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -34,7 +624,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,8 +670,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Data" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,11 +703,11 @@
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32921812" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32921812" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -136,7 +726,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="135">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -145,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
